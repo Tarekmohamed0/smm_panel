@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183091577144",
+    "project_id": "smm-panel-x0",
+    "storage_bucket": "smm-panel-x0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183091577144:android:f661c595fc5e1ad5bc41cd",
+        "android_client_info": {
+          "package_name": "com.example.smm_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClI4maaDVduOaXG_uYZJKcY8_a9E_IDfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
